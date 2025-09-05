@@ -1,10 +1,10 @@
 <div>
-<h1 style="color: rgba(31, 204, 39, 1);"> Mateusz Skotnicki </h1>
+<h1> Mateusz Skotnicki </h1>
 
-<h2 style="color: rgba(31, 204, 39, 1);"> Pasionated learner </h2>
+<h2> Pasionated learner </h2>
 
 
-<p style="color: rgba(31, 204, 39, 1); font-family: CourierNew">I'm a fast-learning and motivated IT student with a strong interest in technology and selfimprovement. 
+<p>I'm a fast-learning and motivated IT student with a strong interest in technology and selfimprovement. 
 I enjoy solving problems and learning new tools or programming languages. I adapt
 quickly to new situations and always do my best to deliver high-quality results. I set ambitious
 goals for myself and believe that with effort and curiosity, anything is possible. I have the ability
@@ -13,7 +13,7 @@ challenges. I always strive to achieve excellence in everything I do.
 </p>
 
 ---
-<h2 style="color: rgba(31, 204, 39, 1);">Languages and Tools I came around:</h2>
+<h2>Languages and Tools I came around:</h2>
 
 <img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
 <img align="left" alt="Git" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
